@@ -27,6 +27,12 @@ Diagrams
 --------
 [Ditta](http://ditaa.sourceforge.net/) (diagrams generated from ascii art) or better
 
+Search
+======
+
+Private Search
+--------------
+[Duck Duck Go](https://duckduckgo.com) or better
 
 
 * * *
