@@ -20,6 +20,10 @@ Remixing Content
 
 _(Future: [Software_Zero](http://enlightenedstructure.org/Software_Zero/) or better)_
 
+Diagrams
+--------
+[Ditta](http://ditaa.sourceforge.net/) (diagrams generated from ascii art) or better
+
 
 
 * * *
