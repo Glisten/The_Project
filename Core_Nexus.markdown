@@ -13,6 +13,8 @@ Sharing Credit & Wealth
 -----------------------
 [Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better
 
+[Common Welfare Economy] (http://www.common-welfare-economy.org/) emerging implmented economic model
+
 Remixing Content
 ----------------
 
