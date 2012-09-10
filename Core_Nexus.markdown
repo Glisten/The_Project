@@ -1,6 +1,10 @@
 Core Nexus for Better Organizations
 ===================================
 
+Individual Level
+----------------
+[Integral Methodological Pluralism](http://www.slideshare.net/timbomb/integral-methodological-pluralismkey) or better
+
 Team Level
 ----------
 [Core Protocols](http://liveingreatness.com/files/core-protocols-3.03.html) or better
