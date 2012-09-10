@@ -13,6 +13,9 @@ Sharing Credit & Wealth
 -----------------------
 [Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better
 
+Collaboration
+=============
+
 Remixing Content
 ----------------
 
