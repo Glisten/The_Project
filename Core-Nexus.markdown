@@ -1,5 +1,5 @@
-Core Nexus for Better Organizations
-===================================
+Luminous Organizational Core
+============================
 
 Team Level
 ----------
@@ -11,7 +11,12 @@ Organization Level
     
 Sharing Credit & Wealth
 -----------------------
-[Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better
+[Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better                   
+
+Global Abundance
+-----------------
+[Common Welfare Economy] (http://www.gemeinwohl-oekonomie.org/wp-content/uploads/2012/02/CWE_20_points_summary.pdf) 
+
 
 Collaboration
 =============                       
@@ -22,7 +27,6 @@ Content Format
 
 Remixing Content: Fork/Diff/Merge
 ---------------------------------
-
 [Github](https://help.github.com/) + [prose.io](http://prose.io/) (markdown editor) or better
 
 _(Future: [Software_Zero](http://enlightenedstructure.org/Software_Zero/) or better)_
@@ -30,6 +34,7 @@ _(Future: [Software_Zero](http://enlightenedstructure.org/Software_Zero/) or bet
 Diagrams
 --------
 [Ditta](http://ditaa.sourceforge.net/) (diagrams generated from ascii art) or better
+                     
 
 Search
 ======
@@ -37,6 +42,11 @@ Search
 Private Search
 --------------
 [Duck Duck Go](https://duckduckgo.com) or better
+
+Meta / Methodological
+=====================
+[Integral Methodological Pluralism](http://www.slideshare.net/timbomb/integral-methodological-pluralismkey) or better
+
 
 
 * * *
