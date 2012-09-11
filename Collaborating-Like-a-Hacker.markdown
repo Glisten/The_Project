@@ -11,6 +11,13 @@ Create a Document from Scratch
 6. Click "+New File" button
 7. Edit your file. Explore prose.io, it is very simple and elegant
 
+Fork a Repository
+-----------------
+
+From <https://help.github.com/articles/fork-a-repo>:
+
+[Fork a repository instructions](/assets/images/Fork-a-repository-instructions.png)
+
 Delete a Repository
 -------------------
 1. Go to repository page on github
