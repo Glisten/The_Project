@@ -13,6 +13,9 @@ Sharing Credit & Wealth
 -----------------------
 [Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better
 
+Collaboration
+=============
+
 Remixing Content
 ----------------
 
@@ -20,6 +23,16 @@ Remixing Content
 
 _(Future: [Software_Zero](http://enlightenedstructure.org/Software_Zero/) or better)_
 
+Diagrams
+--------
+[Ditta](http://ditaa.sourceforge.net/) (diagrams generated from ascii art) or better
+
+Search
+======
+
+Private Search
+--------------
+[Duck Duck Go](https://duckduckgo.com) or better
 
 
 * * *
