@@ -23,7 +23,7 @@ Collaboration
 
 Content Format
 --------------
-[Markdown](http://whatismarkdown.com/) or better
+[Markdown](http://whatismarkdown.com/) or better (see also the online "[dingus](http://daringfireball.net/projects/markdown/dingus)" markdown to HTML converter)
 
 Remixing Content: Fork/Diff/Merge
 ---------------------------------
