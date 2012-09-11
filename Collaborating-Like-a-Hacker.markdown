@@ -1,7 +1,7 @@
 Collaborating Like a Hacker
 ===========================
 
-Github provides great collaboration tools.  You can do a lot of great things without ever touching a command line, or git (or even knowing what git is).  Below we describe some very basic workflows.  There is a lot more great help available at [help.github.com](https://help.github.com/) -- especially the [Bootcamp](https://help.github.com/categories/54/articles) and [Collaborating](https://help.github.com/categories/63/articles) sections.
+Github provides great collaboration tools.  You can do a lot of great things without ever touching a command line, or git (or even knowing what git is).  Below we describe some very basic workflows.  There is a lot more great help available at [help.github.com](https://help.github.com/) -- especially the [Bootcamp](https://help.github.com/categories/54/articles) and [Collaborating](https://help.github.com/categories/63/articles) sections.  Note that many of these help articles _do_ expect you to use git on the command line.  But for simple workflows, you should not have to.
 
 Create a Document from Scratch
 ------------------------------
