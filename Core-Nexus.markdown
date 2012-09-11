@@ -14,10 +14,14 @@ Sharing Credit & Wealth
 [Better Means](http://bettermeans.com/front/open_enterprise_governance_model.html) or better
 
 Collaboration
-=============
+=============                       
 
-Remixing Content
-----------------
+Content Format
+--------------
+[Markdown](http://whatismarkdown.com/) or better
+
+Remixing Content: Fork/Diff/Merge
+---------------------------------
 
 [Github](https://help.github.com/) + [prose.io](http://prose.io/) (markdown editor) or better
 
