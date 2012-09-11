@@ -16,7 +16,7 @@ Fork a Repository
 
 From <https://help.github.com/articles/fork-a-repo>:
 
-[Fork a repository instructions](/assets/images/Fork-a-repository-instructions.png)
+[Fork a repository instructions](assets/images/Fork-a-repository-instructions.png)
 
 Delete a Repository
 -------------------
