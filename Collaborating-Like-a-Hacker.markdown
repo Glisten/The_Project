@@ -14,7 +14,7 @@ Create a Document from Scratch
 Fork a Repository
 -----------------
 
-From <https://help.github.com/articles/fork-a-repo>:
+The screenshot below is from <https://help.github.com/articles/fork-a-repo> --
 
 ![Fork a repository instructions](https://raw.github.com/harlantwood/The_Project/master/assets/images/Fork-a-repository-instructions.png)
 
