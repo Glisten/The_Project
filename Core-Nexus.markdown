@@ -1,5 +1,5 @@
-Luminous Organizational Core
-============================
+Luminous Organizational Cores
+=============================
 
 Team Level
 ----------
