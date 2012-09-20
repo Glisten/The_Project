@@ -54,8 +54,6 @@ Meta / Methodological
 =====================
 [Integral Methodological Pluralism](http://www.slideshare.net/timbomb/integral-methodological-pluralismkey) or better
 
-Test for pull request
-
 * * *
 
 This content is free and remixable under a
