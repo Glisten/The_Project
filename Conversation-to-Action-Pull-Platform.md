@@ -60,7 +60,7 @@ Pull people and resources around [social objects as ‘attractors’] (http://ww
 Push possibilities, match people and objects – Platform is people and conversation centric
 
 Create Contextualized Connections (revalue reap the potential of the hyperlink)
-* Ping things, concepts, people, data into a conversation (Pull Platform mechanism).
+* Ping things, concepts, people, data into a conversation
 * Point out objects that need work. Notify those that might be interested.
 * Ping from wherever you are within documents etc (rizzoma, Kune,  Hackpad) ideally via portable identities like email portability.
 * Link to context and follow from wherever you are "hook" (to people -response to-, conversations, posts –reference to-, data update etc)
