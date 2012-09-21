@@ -4,4 +4,4 @@
 
 Who has written what about this topic, including text documents and code.
 
-#Current research status available here [map]
+#Current research status available here [map](http://allisasis.info/1/node16#.UFv0uZVhiSM)
