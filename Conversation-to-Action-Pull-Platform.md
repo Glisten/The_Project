@@ -41,7 +41,7 @@ Enable cross silo understanding (Pattern/link languages and protocols)
 
 Enable contextualization and cross-reference of data and content
 
-Contextualize interdependencies through visualization of linked data
+Contextualize interdependencies, convergences, divergences through visualization of linked data
 
 Enable figuring out what is ongoing. Help people see what is happening.  Clearly showing progress and impact, 'evolution in the making' (making aware through engagement)
 
