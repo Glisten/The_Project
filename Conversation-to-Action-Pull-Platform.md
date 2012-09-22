@@ -38,10 +38,10 @@ Capture, harvest content of conversations in all multimedia forms.
 Make what we each have and the outputs visible and accessible
 
 Enable cross silo understanding (Pattern/link languages and protocols)
-
+,
 Enable contextualization and cross-reference of data and content
 
-Contextualize interdependencies through visualization of linked data
+Contextualize interdependencies, convergences, divergence through visualization of linked data
 
 Enable figuring out what is ongoing. Help people see what is happening.  Clearly showing progress and impact, 'evolution in the making' (making aware through engagement)
 
