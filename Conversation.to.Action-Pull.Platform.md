@@ -24,6 +24,8 @@ We need to be able to start conversations with no structure and enable the struc
 
 We need conversations where we can go back and reflect – turn the asynchronicity in time & space in an opportunity for making new sense rather than diverging  (reflection)
 
+We need conversations that transition from topic exploration to deliberation
+
 We need an infinite cannevas, that can enable lots of stuff. 
 * Wikis don't respond to needs (no construction of discourse)
 * Blogs don't respond to needs (no synthesis/merging of argumentation) 
