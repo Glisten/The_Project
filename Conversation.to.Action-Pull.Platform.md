@@ -68,6 +68,7 @@ Create Contextualized Connections (revalue reap the potential of the hyperlink)
 Pull related data from the web on ongoing basis
 
 Enable generative conversations to grow into something more comprehensive
+* Dispatching to where content needs to be processed
 * Processing of content and iteration: curation, learning, annotation,  evaluation, argumentation, decision, action – contextualized and cross  referenced) (debategraph, Kune)
 * Self discovery space, taking notes, adding on, modifying (sandbox)
 * Hands on modifying and scaling – fork, diff, merge. (re: open source - github)
