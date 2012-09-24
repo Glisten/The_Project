@@ -16,10 +16,15 @@ Organization Level
 Planetary Level Intelligence Resources
 -----------------------------------
 [Co-Intelligence Institute](http://www.co-intelligence.org/)
+
 [Encyclopedia of World Problems and Human Potential](http://www.uia.be/encyclopedia-world-problems-and-human-potential)
+
 [ISS.NET](http://www.oss.net/)
+
 [Earth Dashboard](http://earthdash.org/DraftDash/earthdashboard3/index.php)
+
 [Web Evolution - Graphic](http://novaspivack.typepad.com/nova_spivacks_weblog/metaweb_graph.GIF)
+
 [world-governance.org](http://www.world-governance.org)
     
 Sharing Credit & Wealth
