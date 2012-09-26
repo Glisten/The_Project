@@ -14,6 +14,8 @@ We need to multiply the generative potential of conversations around social obje
 * Visualization & navigation in contextualized data
 * Social network communication channels enabling communication
 
+The platforms needs to be extremely adaptable in terms of design, needs to be built, tested and rebuilt in some sort of regenerative continuum.
+
 What is needed from the tool emerges readily when it is used in line with some embodied and meaningful purpose.
 
 ## Harvesting & Making Conversations Productive
@@ -26,7 +28,8 @@ We need conversations where we can go back and reflect – turn the asynchronici
 
 We need conversations that transition from topic exploration to deliberation
 
-We need an infinite cannevas, that can enable lots of stuff. 
+We need an infinite cannevas, that can enable lots of things to take form, swarming system to co-create narratives at a fast pace, used -behind the scenes- to generate content: blog posts, video storyboards, books, venture startup plans...
+
 * Wikis don't respond to needs (no construction of discourse)
 * Blogs don't respond to needs (no synthesis/merging of argumentation) 
 * [Blog as a tip of a wiki iceberg] (http://communitywiki.org/en/BlogControlledByWiki)?
