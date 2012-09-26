@@ -82,4 +82,10 @@ The Earth Dashboard you are visiting is an alpha version of a tool that is inten
 ##[world-governance.org](http://www.world-governance.org)
 
 It is only by moving from the idea of individual protection to the idea of protection of all that we can start to envisage the possibility of a global social contract.
+
+##[Living Earth Simulator](http://www.futurict.eu/)
+
+"FuturICT wants science to catch up with the speed at which new problems and opportunities are arising in our changing world as consequences of globalization, technological, demographic and environmental change, and make a contribution to strengthening our societies' adaptiveness, resilience, and sustainability.
+
+It will do so by developing new scientific approaches and combining these with the best established methods in areas like multi-scale computer modeling, social supercomputing, large-scale data mining and participatory platforms. "
     
