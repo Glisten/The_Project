@@ -52,6 +52,8 @@ Talk while doing, build as we talk
 
 Capture, harvest content of conversations in all multimedia forms.
 
+Enable queries, "How do I_______" (for tools, interpersonal strategies, vocabulary) with 'taylored' answers
+
 Make what we each have and the outputs visible and accessible
 
 Enable cross silo understanding (Pattern/link languages and protocols)
