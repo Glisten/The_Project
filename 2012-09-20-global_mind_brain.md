@@ -41,12 +41,13 @@ The future belongs not to artificial intelligence, but to collective intelligenc
 Nova Spivack
 ------------
 Most recently in 2009 Spivack alludes to a global collective intelligence.[here](http://www.novaspivack.com/science/whats-after-the-real-time-web)
+[and here](http://www.slideshare.net/novaspivack/web-evolution-nova-spivack-twine)
 
 Programming the Global Brain
 ----------------------------
 
 Abraham Bernstein, a Mark Klein, b and Thomas W. Malone b
-MIT Center for Collective Intelligence
+[MIT Center for Collective Intelligence](http://cci.mit.edu/)
 MIT Center for Collective Intelligence Working Paper No. 2011-04
 To appear in the Communications of the ACM May 2012, Vol. 55, Issue 5
 
