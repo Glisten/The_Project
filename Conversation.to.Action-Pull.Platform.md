@@ -4,9 +4,13 @@ This repository is awaiting to be hosted by a collective account.
 Conversation-to-Action Pull Platform
 ====================================
 
-Empowering a network of issues-related learning and collaborative environments leading to action. Its goal is to make open-ended conversations generative or 'productive' in terms of engagement, resources pulled and pooled, outputs and outcomes
+A tool built for a purpose: enabling technology and information to get to those who need it, to become a global collective intelligence solution and governance space.
 
-Enabling technology and information to get to those who need it, to become a global collective intelligence solution and governance space
+Built collaboratively around the purposes and needs of communities of social practice, aggregating and integrating the ideas and existing codes of a community of techno practice. 
+
+Empowering a network of issues-related learning and collaborative environments leading to action. Its goal is to make open-ended conversations generative or 'productive' in terms of engagement, resources pulled and pooled, outputs and outcomes.
+
+Deployable on darknets and P2P distributed server environments.
 
 We need to multiply the generative potential of conversations around social objects that  attract individual intentions into collective effort through an emergent  platform which enables: 
 * Harvesting and productivity of conversations
@@ -16,9 +20,13 @@ We need to multiply the generative potential of conversations around social obje
 
 The platforms needs to be extremely adaptable in terms of design, needs to be built, tested and rebuilt in some sort of regenerative continuum.
 
+Sort of like a [MMORPG](http://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game) with mutltiple collaboration engines (cad-cam, programing languages, system-modeling architectures, etc, etc, etc) built into it.
+
 What is needed from the tool emerges readily when it is used in line with some embodied and meaningful purpose.
 
 ## Harvesting & Making Conversations Productive
+
+We need meta-spaces that could serve multiple types of collaboration needs.
 
 We need conversations that are dynamic and ongoing and can adapt. (flow)
 
@@ -36,7 +44,9 @@ We need an infinite cannevas, that can enable lots of things to take form, swarm
 
 ### Overall Requirements  
 
-Sharing & learning
+Share & learn
+
+Talk while doing, build as we talk
 
 Capture, harvest content of conversations in all multimedia forms.
 
